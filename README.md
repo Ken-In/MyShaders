@@ -6,3 +6,6 @@
 ## [ProceduralSkybox](https://github.com/Ken-In/MyShaders/tree/main/ProceduralSkybox)
 ![image](https://github.com/Ken-In/MyShaders/assets/55162087/b0645f75-7820-430a-90c3-ccb012d91504)
 详情见：https://zhuanlan.zhihu.com/p/635686526
+
+## [StylizedWater](https://github.com/Ken-In/MyShaders/tree/main/StylizedWater)
+![StylizedWater](https://github.com/Ken-In/MyShaders/assets/55162087/b0b9c20e-86fb-420f-a732-a931ef3a03eb)
